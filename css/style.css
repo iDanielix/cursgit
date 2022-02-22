@@ -15,9 +15,9 @@
 
 /* ==== CSS VARIABLES ==== */
 :root {
-  --primary-color: #42ea33;
+  --primary-color: #e5ff00;
   --link-color: #506690;
-  --btn-hover-color: #c22bc7;
+  --btn-hover-color: #e093ff;
   --lg-heading: #161c2d;
   --text-content: #869ab8;
   --fixed-header-height: 4.5rem;
